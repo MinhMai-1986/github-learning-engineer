@@ -17,3 +17,4 @@ Học Git và GitHub từ cơ bản đến nâng cao, phục vụ công việc K
 - Quản lý tài liệu kỹ thuật
 - Ứng dụng GitHub trong kỹ thuật Điện – Bảo trì
 - GitHub Learning - Bài thực hành Commit
+Feature Auto/Manual - đang thử nghiệm
